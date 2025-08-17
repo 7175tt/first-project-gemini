@@ -1,0 +1,5 @@
+{
+  "name": "政府計畫成果報告產生器 (Achievement Report Generator)",
+  "description": "一個可以根據使用者選擇的KPI項目和提供的原始資料，自動生成政府計畫成果報告草稿的應用程式。",
+  "requestFramePermissions": []
+}
